@@ -4,7 +4,7 @@ Skill pessoal para editar vídeos imobiliários no padrão S6 Imóveis. Inclui a
 
 ## Instalar em outro computador
 
-No Codex com acesso a este repositório, envie:
+No Codex instalado no outro computador, envie:
 
 ```text
 Use $skill-installer para instalar a skill ImobVideo deste repositório:
@@ -12,7 +12,7 @@ https://github.com/caprucho/imobvideo/tree/main/skills/imobvideo
 Inclua todos os recursos e valide a instalação.
 ```
 
-Como o repositório é privado, a pessoa precisa ter acesso no GitHub, ou usar uma cópia da pasta skills/imobvideo que o responsável lhe forneça. Não compartilhe senhas ou tokens no chat.
+Este repositório é público: a skill pode ser consultada e instalada pelo link, sem convite de acesso ao repositório. Não compartilhe senhas ou tokens no chat.
 
 ## Usar
 
