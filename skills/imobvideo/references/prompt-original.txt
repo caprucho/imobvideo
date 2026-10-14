@@ -1,0 +1,415 @@
+# PROMPT DEFINITIVO: EDIÇÃO PROFISSIONAL DE VÍDEO IMOBILIÁRIO | S6 IMÓVEIS
+
+## 1. OBJETIVO PRINCIPAL
+
+Atue como um editor de vídeo profissional especializado em vídeos publicitários de imóveis de médio e alto padrão.
+
+Sua tarefa é transformar o vídeo original anexado em um vídeo imobiliário cinematográfico, elegante, fluido e comercialmente atrativo, pronto para publicação no YouTube e utilização em anúncios imobiliários.
+
+**Arquivos fornecidos:**
+- Vídeo original gravado no imóvel.
+- Logotipo oficial da S6 Imóveis.
+- Trilha sonora licenciada: Bensound - The Elevator Bossa Nova.
+
+O resultado deve transmitir profissionalismo, amplitude, luminosidade, conforto e qualidade, preservando fielmente as características reais do imóvel.
+
+**Prioridades absolutas:**
+1. Estabilização profissional de imagem.
+2. Seleção inteligente das melhores cenas.
+3. Cortes e transições naturais.
+4. Slow motion estratégico.
+5. Correção de iluminação e cores.
+6. Identidade visual da S6 Imóveis.
+7. Marca-d'água grande e centralizada.
+8. Trilha sonora e acabamento profissional.
+
+Você possui liberdade criativa para eliminar cenas, reorganizar trechos e ajustar o ritmo do vídeo, desde que respeite a disposição real dos ambientes.
+
+---
+
+## 2. ANÁLISE COMPLETA DO VÍDEO ORIGINAL
+
+Antes de iniciar a edição:
+
+- Assista integralmente à gravação original.
+- Identifique todos os ambientes apresentados.
+- Analise enquadramentos, movimentos, iluminação e qualidade de cada trecho.
+- Identifique tremores, movimentos bruscos, pausas excessivas, cenas repetidas e momentos sem interesse comercial.
+- Selecione as imagens que melhor valorizam o apartamento.
+- Preserve tomadas que demonstrem amplitude, integração dos ambientes, iluminação natural e detalhes de acabamento.
+
+Não é necessário preservar a duração original.
+
+Prefira um vídeo mais curto, visualmente interessante e profissional, sem sacrificar a apresentação adequada dos ambientes.
+
+Nunca invente ambientes, detalhes ou características inexistentes.
+
+## 3. ESTABILIZAÇÃO PROFISSIONAL (PRIORIDADE MÁXIMA)
+
+O vídeo original foi gravado com câmera em movimento e poderá apresentar tremores.
+
+**É obrigatório estabilizar as cenas aproveitadas na edição.**
+
+Aplicar estabilização inteligente para:
+
+- Eliminar tremores causados pelas mãos.
+- Suavizar movimentos provocados pelos passos.
+- Corrigir oscilações horizontais e verticais.
+- Transformar movimentos de câmera aproveitáveis em deslocamentos fluidos, semelhantes aos realizados com gimbal.
+- Reduzir pequenas vibrações e movimentos indesejados.
+- Utilizar rastreamento de movimento, quando disponível.
+- Corrigir distorções decorrentes da estabilização.
+
+A estabilização não pode gerar:
+
+- Paredes onduladas.
+- Portas deformadas.
+- Móveis distorcidos.
+- Zoom exagerado.
+- Perda significativa do campo de visão.
+- Movimentos artificiais.
+
+Se determinado trecho não puder ser estabilizado adequadamente, elimine-o ou substitua-o por uma cena melhor.
+
+**O resultado deve parecer gravado com câmera profissional estabilizada, e não com celular na mão.**
+
+## 4. CORTES E MONTAGEM
+
+Realize uma montagem dinâmica, sofisticada e natural.
+
+- Remova pausas desnecessárias.
+- Elimine movimentos bruscos.
+- Corte cenas repetitivas.
+- Retire momentos desfocados ou com enquadramento inadequado.
+- Dê preferência aos melhores ângulos de cada ambiente.
+- Utilize cortes limpos.
+- Aplique transições suaves apenas quando fizerem sentido.
+- Sincronize determinadas mudanças de cena com a trilha sonora.
+- Mantenha tempo suficiente para o espectador observar cada cômodo.
+
+Evite transições exageradas, efeitos chamativos, flashes e movimentos artificiais.
+
+Organize a apresentação de maneira lógica e agradável, respeitando a configuração real do imóvel.
+
+## 5. SLOW MOTION INTELIGENTE
+
+Utilize câmera lenta nos trechos em que o efeito realmente valorizar o imóvel.
+
+Priorize:
+
+- Entrada em ambientes amplos.
+- Panorâmicas da sala.
+- Apresentação da varanda.
+- Vistas externas.
+- Cozinha e acabamentos.
+- Suítes e dormitórios.
+- Detalhes arquitetônicos.
+- Movimentos de câmera particularmente interessantes.
+
+Regras:
+
+- Utilize velocidades suaves, como 70% ou 80%, quando tecnicamente adequado.
+- Ajuste a velocidade conforme a taxa de quadros original.
+- Utilize interpolação de quadros apenas quando necessário e sem produzir distorções.
+- Evite imagens travadas ou artificiais.
+- Não coloque todo o vídeo em câmera lenta.
+
+**O slow motion deve transmitir elegância e valorizar o imóvel, e não simplesmente aumentar a duração do vídeo.**
+
+## 6. TRATAMENTO DE IMAGEM
+
+Aplicar correção profissional de imagem:
+
+- Corrigir exposição.
+- Ajustar balanço de branco.
+- Harmonizar as cores entre os ambientes.
+- Recuperar detalhes em áreas muito claras ou escuras, quando possível.
+- Melhorar contraste com moderação.
+- Valorizar iluminação natural.
+- Corrigir pequenas distorções de lente.
+- Reduzir ruído digital quando necessário.
+- Aplicar nitidez moderada.
+- Preservar as cores reais dos acabamentos.
+
+O resultado deve ser luminoso, sofisticado e natural.
+
+Não alterar artificialmente o tamanho dos cômodos, a planta, os materiais, as vistas ou qualquer característica relevante do imóvel.
+
+---
+
+# 7. IDENTIDADE VISUAL S6 IMÓVEIS
+
+Utilizar exclusivamente o logotipo oficial da S6 Imóveis fornecido em anexo.
+
+**O logotipo possui:**
+- Símbolo da S6 em formato de casa.
+- Acabamento dourado.
+- Elementos e letras brancas.
+- Identificação IMÓVEIS.
+- Registro CRECI 045120-J.
+
+Preservar rigorosamente o desenho, as cores e as proporções do logotipo original.
+
+Não redesenhar, substituir fontes ou alterar a identidade visual da empresa.
+
+## 8. ABERTURA COM LOGOTIPO
+
+Criar uma abertura curta, elegante e profissional.
+
+**Duração aproximada: 2 segundos.**
+
+Orientações:
+
+- Utilizar o logotipo oficial da S6 Imóveis centralizado.
+- Aplicar fundo escuro, preferencialmente preto ou grafite, valorizando o dourado e o branco do logotipo.
+- Manter o logotipo perfeitamente proporcional.
+- Aplicar uma animação sutil de entrada, preferencialmente fade-in ou leve zoom.
+- Sincronizar a abertura com o início da trilha sonora.
+- Fazer transição suave para a primeira imagem do apartamento.
+
+A abertura deve transmitir credibilidade e sofisticação.
+
+Não prolongar excessivamente a apresentação do logotipo.
+
+## 9. MARCA-D'ÁGUA PERMANENTE, GRANDE E CENTRALIZADA
+
+**ATENÇÃO: ESTA É UMA EXIGÊNCIA IMPORTANTE E OBRIGATÓRIA.**
+
+Durante toda a apresentação dos ambientes, sobrepor o logotipo oficial da S6 Imóveis como marca-d'água.
+
+### Posicionamento
+
+- A marca-d'água deve ficar CENTRALIZADA na imagem.
+- Deve ocupar uma área GRANDE do vídeo.
+- Utilizar aproximadamente 35% a 45% da largura do enquadramento, ajustando conforme as proporções do logotipo.
+- Manter o logotipo integralmente visível, sem cortes.
+- Preservar as proporções originais.
+
+### Transparência
+
+- Aplicar opacidade baixa, inicialmente entre 8% e 12%.
+- Ajustar a transparência conforme a luminosidade das cenas.
+- A marca-d'água deve ser perceptível, mas não atrapalhar a visualização dos cômodos.
+- Evitar que o logotipo esconda acabamentos, móveis ou detalhes importantes.
+- Não utilizar bordas, sombras fortes ou fundos opacos atrás do logotipo.
+
+### Permanência
+
+- Manter a marca-d'água durante toda a apresentação dos ambientes.
+- Não fazer a marca-d'água desaparecer nas transições.
+- Manter posição central consistente.
+- Não utilizar animações repetitivas na marca-d'água.
+
+### Objetivo
+
+Identificar visualmente o material como conteúdo oficial da S6 Imóveis e dificultar sua reutilização por terceiros sem autorização.
+
+**A marca-d'água deve ser grande, centralizada, translúcida e elegante.**
+
+Não colocar o logotipo pequeno em um canto da tela.
+
+---
+
+# 10. ENCERRAMENTO COM LOGOTIPO E WHATSAPP
+
+Criar uma tela de encerramento profissional, elegante e alinhada à identidade visual da S6 Imóveis.
+
+**Duração desejada: aproximadamente 2 segundos.**
+
+Se necessário para garantir a leitura do telefone, ampliar discretamente a duração até 3 segundos.
+
+### Elementos obrigatórios
+
+1. Logotipo oficial da S6 Imóveis em destaque.
+2. Chamada: **Agende sua visita:**
+3. Ícone oficial do WhatsApp, preferencialmente na cor verde original.
+4. Número: **(11) 98106-0466**
+
+### Composição visual
+
+- Fundo preto ou grafite.
+- Logotipo centralizado na região superior.
+- Chamada "Agende sua visita:" abaixo do logotipo.
+- Ícone oficial do WhatsApp ao lado do telefone.
+- Número de contato grande, legível e destacado.
+- Fonte moderna e elegante.
+- Alinhamento centralizado.
+- Espaçamento equilibrado entre os elementos.
+
+### Animação
+
+- Aplicar fade-in suave no logotipo e nas informações.
+- Evitar movimentos chamativos.
+- Manter o conteúdo legível durante a exibição.
+- Finalizar com fade-out suave da imagem e da trilha sonora.
+
+**ATENÇÃO AO NÚMERO:**
+
+(11) 98106-0466
+
+O número deverá aparecer exatamente dessa maneira, sem erros ou alterações.
+
+Não inventar outros dados de contato.
+
+---
+
+# 11. TRILHA SONORA
+
+Utilizar o arquivo de áudio enviado:
+
+**Bensound - The Elevator Bossa Nova**
+
+Orientações:
+
+- Remover completamente o áudio original da gravação.
+- Eliminar conversas, ruídos, passos, vento e barulhos de manuseio.
+- Utilizar exclusivamente a música fornecida.
+- Ajustar o início e o fim da música à duração da montagem.
+- Aplicar fade-in suave no início.
+- Manter volume agradável e uniforme.
+- Sincronizar alguns cortes com o ritmo musical.
+- Aplicar fade-out nos segundos finais.
+- Evitar encerramento abrupto.
+
+Caso a música seja maior que o vídeo, selecionar o trecho musical mais apropriado, realizando cortes de áudio discretos.
+
+**Não substituir a música por outra sem autorização.**
+
+## 12. CRÉDITOS OBRIGATÓRIOS DA MÚSICA
+
+Preparar os créditos para inclusão na descrição do YouTube.
+
+Inserir exatamente:
+
+Royalty Free Music: Bensound.com/royalty-free-music  
+License code: MTR0KMAR1ZO75DL1  
+Artist: : Benjamin Tissot
+
+**Importante:**
+
+- Os créditos deverão constar na descrição do vídeo no YouTube.
+- Não é necessário exibi-los visualmente durante o vídeo.
+- Verificar se a licença informada permite a utilização comercial pretendida.
+- Não presumir que a simples inclusão dos créditos substitui a autorização de uso.
+
+---
+
+# 13. INFORMAÇÕES COMERCIAIS DO IMÓVEL
+
+Utilizar apenas informações do imóvel efetivamente fornecidas ou confirmadas.
+
+Caso disponíveis, preparar:
+
+- Título comercial para YouTube.
+- Descrição do imóvel.
+- Metragem.
+- Dormitórios e suítes.
+- Banheiros.
+- Vagas de garagem.
+- Localização.
+- Diferenciais.
+- Valor de venda ou locação.
+- Informações para agendamento de visita.
+
+Não inventar dados ausentes.
+
+Evitar excesso de textos sobrepostos durante a apresentação dos ambientes.
+
+O foco principal do vídeo deve permanecer nas imagens do imóvel.
+
+## 14. FORMATO DE EXPORTAÇÃO
+
+Entregar o vídeo final com as seguintes características:
+
+- Formato: MP4.
+- Proporção: 16:9 horizontal, sempre que compatível com a gravação.
+- Resolução: 4K se o material original permitir.
+- Alternativa: Full HD 1920 × 1080.
+- Codec: H.264, preferencialmente para compatibilidade.
+- Áudio: AAC.
+- Taxa de quadros: preservar a original quando possível.
+- Qualidade de compressão elevada.
+- Arquivo compatível com YouTube e portais imobiliários.
+
+Não ampliar artificialmente a resolução prometendo detalhes inexistentes.
+
+## 15. CONTROLE DE QUALIDADE
+
+Antes de entregar o vídeo, verificar obrigatoriamente:
+
+- Se os tremores relevantes foram corrigidos.
+- Se não existem deformações decorrentes da estabilização.
+- Se os cortes estão naturais.
+- Se o slow motion está fluido.
+- Se as cores estão harmonizadas.
+- Se não existem cenas repetidas desnecessariamente.
+- Se a música começa e termina suavemente.
+- Se o áudio original foi removido.
+- Se o logotipo oficial aparece na abertura.
+- Se a marca-d'água está GRANDE e CENTRALIZADA durante a apresentação.
+- Se a opacidade da marca-d'água não compromete a visualização.
+- Se o logotipo aparece novamente no encerramento.
+- Se o ícone do WhatsApp está ao lado do número.
+- Se o número (11) 98106-0466 está absolutamente correto.
+- Se nenhuma característica física do imóvel foi adulterada.
+- Se o vídeo está pronto para reprodução no YouTube.
+
+Corrigir qualquer problema identificado antes da entrega.
+
+---
+
+# 16. ENTREGÁVEIS
+
+**Arquivo 1: Vídeo principal**
+
+Entregar o vídeo imobiliário completo, editado, estabilizado, com cortes profissionais, câmera lenta estratégica, tratamento de imagem, trilha sonora, abertura, marca-d'água centralizada e encerramento com WhatsApp.
+
+**Arquivo 2: Conteúdo para YouTube**
+
+Preparar:
+- Título comercial atrativo.
+- Descrição otimizada para pesquisas.
+- Informações do imóvel confirmadas.
+- Contato da S6 Imóveis.
+- Créditos obrigatórios da música.
+
+**Arquivo 3: Thumbnail**
+
+Criar uma miniatura profissional para o YouTube usando uma cena real e atrativa do imóvel, acompanhada da identidade visual oficial da S6 Imóveis.
+
+Não modificar a arquitetura ou inserir elementos inexistentes.
+
+---
+
+# 17. INSTRUÇÃO FINAL PARA A IA EDITORA
+
+**EXECUTE A EDIÇÃO COMPLETA DO VÍDEO. NÃO SE LIMITE A EXPLICAR COMO EDITAR.**
+
+Utilize efetivamente os arquivos enviados e produza o resultado final.
+
+Você possui liberdade criativa para:
+- Escolher os melhores trechos.
+- Excluir cenas ruins.
+- Reorganizar a apresentação.
+- Aplicar estabilização.
+- Definir os momentos ideais de slow motion.
+- Ajustar cores e iluminação.
+- Sincronizar a trilha sonora.
+- Criar as animações da abertura e do encerramento.
+
+Respeite obrigatoriamente as seguintes exigências:
+
+1. Estabilização é prioridade absoluta.
+2. O imóvel deve ser mostrado fielmente.
+3. O logotipo oficial deve aparecer na abertura por aproximadamente 2 segundos.
+4. A marca-d'água deve ser GRANDE, CENTRALIZADA e TRANSLÚCIDA durante todo o vídeo.
+5. A música fornecida deve substituir o áudio original.
+6. O encerramento deve utilizar o logotipo oficial, a chamada "Agende sua visita:" e o WhatsApp (11) 98106-0466.
+7. O vídeo deve ser exportado em MP4 com qualidade profissional.
+8. Preparar os créditos da música para a publicação no YouTube.
+
+Não é necessário pedir autorização para realizar cortes, estabilização, correção de cores ou aplicação de slow motion, pois essas decisões editoriais estão autorizadas.
+
+**O resultado deve parecer uma produção publicitária imobiliária profissional, e não apenas uma gravação de celular com música de fundo.**
+
+Entregue o vídeo finalizado, pronto para utilização comercial pela S6 Imóveis.

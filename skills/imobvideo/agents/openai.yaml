@@ -1,0 +1,4 @@
+interface:
+  display_name: "ImobVideo"
+  short_description: "Vídeos S6: edição, revisão e publicação confirmada"
+  default_prompt: "Use $imobvideo para editar o vídeo com legendas e música 50% mais baixa. Mostre a versão final e aguarde meu OK; depois confirme se deve publicar no YouTube da S6 Imóveis e vincular ao anúncio no Tecimob. Peça os itens que faltarem."
